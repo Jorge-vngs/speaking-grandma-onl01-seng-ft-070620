@@ -1,6 +1,12 @@
-def speak_to_grandma
-  put "hi"
-end
+def speak_to_grandma (phrase)
+  if phrase.upcase != phrase
+    return
+  
+  
+  
+  
+  
+  
   
   
   
